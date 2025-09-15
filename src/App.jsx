@@ -370,11 +370,11 @@ export default function Quiz() {
               <div className="text-gray-400 text-sm">Questions</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-blue-400">25s</div>
+              <div className="text-3xl font-bold text-blue-400">60s</div>
               <div className="text-gray-400 text-sm">Per Question</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-blue-400">8min</div>
+              <div className="text-3xl font-bold text-blue-400">20min</div>
               <div className="text-gray-400 text-sm">Total Time</div>
             </div>
           </motion.div>
